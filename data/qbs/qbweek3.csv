@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders
+1,RK,PLAYER,TEAM,RESULT,COMP,ATT,YDS,TD,INT,SACK,FUM,RAT
+2,1,"Josh Allen, QB",BUF,L 21-19 at MIA,42,63,400,2,0,4,1,94.7
+3,2,"Jameis Winston, QB",NO,L 22-14 at CAR,25,41,353,1,2,1,0,76.6
+4,3,"Jalen Hurts, QB",PHI,W 24-8 at WSH,22,35,340,3,0,3,0,123.5
+5,4,"Geno Smith, QB",SEA,L 27-23 vs. ATL,32,44,325,2,1,2,0,99.2
+6,5,"Mac Jones, QB",NE,L 37-26 vs. BAL,22,32,321,0,3,3,0,62.1
+7,6,"Kyler Murray, QB",ARI,L 20-12 vs. LAR,37,58,314,0,0,2,0,77.8
+8,7,"Derek Carr, QB",LV,L 24-22 at TEN,26,44,303,2,1,1,0,85.7
+9,8,"Justin Herbert, QB",LAC,L 38-10 vs. JAX,25,45,297,1,1,1,1,74.0
+10,9,"Joe Flacco, QB",NYJ,L 27-12 vs. CIN,28,52,285,0,2,4,2,53.8
+11,10,"Jared Goff, QB",DET,L 28-24 at MIN,25,41,277,1,1,0,0,79.0
+12,11,"Joe Burrow, QB",CIN,W 27-12 at NYJ,23,36,275,3,0,2,0,114.9
+13,12,"Tom Brady, QB",TB,L 14-12 vs. GB,31,42,271,1,0,3,0,98.4
+14,13,"Ryan Tannehill, QB",TEN,W 24-22 vs. LV,19,27,264,1,1,1,0,98.4
+15,14,"Patrick Mahomes, QB",KC,L 20-17 at IND,20,35,262,1,1,1,0,78.5
+16,15,"Trevor Lawrence, QB",JAX,W 38-10 at LAC,28,39,262,3,0,0,0,115.5
+17,16,"Kirk Cousins, QB",MIN,W 28-24 vs. DET,24,41,260,2,0,1,0,93.5
+18,17,"Aaron Rodgers, QB",GB,W 14-12 at TB,27,35,255,2,1,1,0,103.9
+19,18,"Matthew Stafford, QB",LAR,W 20-12 at ARI,18,25,249,0,0,1,0,103.6
+20,19,"Davis Mills, QB",HOU,L 23-20 at CHI,20,32,245,1,2,1,0,70.4
+21,20,"Marcus Mariota, QB",ATL,W 27-23 at SEA,13,20,229,1,1,3,1,99.8
+22,21,"Matt Ryan, QB",IND,W 20-17 vs. KC,27,37,222,2,0,5,1,105.9
+23,22,"Jacoby Brissett, QB",CLE,W 29-17 vs. PIT,21,31,220,2,0,2,0,109.6
+24,23,"Lamar Jackson, QB",BAL,W 37-26 at NE,18,29,218,4,1,4,0,110.3
+25,24,"Cooper Rush, QB",DAL,W 23-16 at NYG,21,31,215,1,0,0,0,98.2
+26,25,"Jimmy Garoppolo, QB",SF,L 11-10 at DEN,18,29,211,1,1,4,1,81.2
+27,26,"Carson Wentz, QB",WSH,L 24-8 vs. PHI,25,43,211,0,0,9,1,71.0
+28,27,"Mitch Trubisky, QB",PIT,L 29-17 at CLE,20,32,207,0,0,1,0,81.1
+29,28,"Daniel Jones, QB",NYG,L 23-16 vs. DAL,20,37,196,0,1,5,0,57.9
+30,29,"Tua Tagovailoa, QB",MIA,W 21-19 vs. BUF,13,18,186,1,0,1,0,123.8
+31,30,"Russell Wilson, QB",DEN,W 11-10 vs. SF,20,33,184,0,0,4,0,75.8
