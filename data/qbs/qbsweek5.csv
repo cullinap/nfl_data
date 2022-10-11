@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders
+1,RK,PLAYER,TEAM,RESULT,COMP,ATT,YDS,TD,INT,SACK,FUM,RAT
+2,1,"Josh Allen, QB",BUF,W 38-3 vs. PIT,20,31,424,4,1,0,0,134.1
+3,2,"Carson Wentz, QB",WSH,L 21-17 vs. TEN,25,38,359,2,1,3,0,102.9
+4,3,"Tom Brady, QB",TB,W 21-15 vs. ATL,35,52,351,1,0,0,0,92.7
+5,4,"Kenny Pickett, QB",PIT,L 38-3 at BUF,34,52,327,0,1,3,0,74.8
+6,5,"Matthew Stafford, QB",LAR,L 22-10 vs. DAL,28,42,308,1,1,5,2,86.2
+7,6,"Kirk Cousins, QB",MIN,W 29-22 vs. CHI,32,41,296,1,1,1,0,94.7
+8,7,"Patrick Mahomes, QB",KC,W 30-29 vs. LV,29,43,292,4,0,3,0,117.6
+9,8,"Trevor Lawrence, QB",JAX,L 13-6 vs. HOU,25,47,286,0,2,0,0,54.0
+10,9,"Russell Wilson, QB",DEN,L 12-9 vs. IND,21,39,274,0,2,4,0,54.9
+11,10,"Geno Smith, QB",SEA,L 39-32 at NO,16,25,268,3,0,3,0,139.7
+12,11,"Jimmy Garoppolo, QB",SF,W 37-15 at CAR,18,30,253,2,0,2,0,109.4
+13,12,"Matt Ryan, QB",IND,W 12-9 at DEN,26,41,251,0,2,6,0,60.1
+14,13,"Kyler Murray, QB",ARI,L 20-17 vs. PHI,28,42,250,1,1,1,0,80.5
+15,14,"Derek Carr, QB",LV,L 30-29 at KC,19,30,241,2,0,2,0,110.6
+16,15,"Jalen Hurts, QB",PHI,W 20-17 at ARI,26,36,239,0,0,2,0,89.9
+17,16,"Jacoby Brissett, QB",CLE,L 30-28 vs. LAC,21,34,230,1,1,0,0,79.3
+18,17,"Jared Goff, QB",DET,L 29-0 at NE,19,35,229,0,1,2,1,62.7
+19,18,"Justin Herbert, QB",LAC,W 30-28 at CLE,22,34,228,1,0,1,0,93.8
+20,19,"Aaron Rodgers, QB",GB,L 27-22 vs. NYG,25,39,222,2,0,2,0,96.3
+21,20,"Daniel Jones, QB",NYG,W 27-22 at GB,21,27,217,0,0,1,0,100.2
+22,21,"Joe Burrow, QB",CIN,L 19-17 at BAL,24,35,217,1,1,2,0,82.7
+23,22,"Baker Mayfield, QB",CAR,L 37-15 vs. SF,20,36,215,0,1,4,0,61.7
+24,23,"Zach Wilson, QB",NYJ,W 40-17 vs. MIA,14,21,210,0,0,2,0,99.3
+25,24,"Justin Fields, QB",CHI,L 29-22 at MIN,15,21,208,1,0,2,0,118.8
+26,25,"Bailey Zappe, QB",NE,W 29-0 vs. DET,17,21,188,1,1,0,0,100.0
+27,26,"Andy Dalton, QB",NO,W 39-32 vs. SEA,16,24,187,1,1,1,0,86.6
+28,27,"Ryan Tannehill, QB",TEN,W 21-17 at WSH,15,25,181,1,0,5,0,95.6
+29,28,"Lamar Jackson, QB",BAL,W 19-17 vs. CIN,19,32,174,1,1,1,0,71.6
+30,29,"Skylar Thompson, QB",MIA,L 40-17 at NYJ,19,33,166,0,1,2,1,58.4
+31,30,"Marcus Mariota, QB",ATL,L 21-15 at TB,14,25,147,1,0,5,0,86.6
