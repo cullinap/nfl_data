@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders
+1,RK,PLAYER,TEAM,RESULT,COMP,ATT,YDS,TD,INT,SACK,FUM,RAT
+2,1,"Joe Burrow, QB",CIN,W 35-17 vs. ATL,34,42,481,3,0,3,0,138.2
+3,2,"Patrick Mahomes, QB",KC,W 44-23 at SF,25,34,423,3,1,1,0,132.4
+4,3,"Andy Dalton, QB",NO,L 42-34 at ARI,30,47,361,4,3,0,0,89.1
+5,4,"Trevor Lawrence, QB",JAX,L 23-17 vs. NYG,22,43,310,0,0,0,0,74.8
+6,5,"Jimmy Garoppolo, QB",SF,L 44-23 vs. KC,25,37,303,2,1,5,1,99.3
+7,6,"Davis Mills, QB",HOU,L 38-20 at LV,28,41,302,2,1,1,0,95.8
+8,7,"Justin Herbert, QB",LAC,L 37-23 vs. SEA,33,51,293,2,1,3,1,84.9
+9,8,"Tom Brady, QB",TB,L 21-3 at CAR,32,49,290,0,0,1,0,81.2
+10,9,"Tua Tagovailoa, QB",MIA,W 16-10 vs. PIT,21,35,261,1,0,0,0,92.7
+11,10,"Jacoby Brissett, QB",CLE,L 23-20 at BAL,22,27,258,0,0,5,1,106.5
+12,11,"Kenny Pickett, QB",PIT,L 16-10 at MIA,32,44,257,1,3,2,0,66.2
+13,12,"Matt Ryan, QB",IND,L 19-10 at TEN,33,44,243,1,2,3,0,76.2
+14,13,"Derek Carr, QB",LV,W 38-20 vs. HOU,21,27,241,1,0,1,0,116.2
+15,14,"Jared Goff, QB",DET,L 24-6 at DAL,21,26,228,0,2,5,2,71.2
+16,15,"Brett Rypien, QB",DEN,L 16-9 vs. NYJ,24,46,225,0,1,1,0,56.9
+17,16,"Geno Smith, QB",SEA,W 37-23 at LAC,20,27,210,2,1,2,1,105.5
+18,17,"Dak Prescott, QB",DAL,W 24-6 vs. DET,19,25,207,1,0,2,0,113.3
+19,18,"Kyler Murray, QB",ARI,W 42-34 vs. NO,20,29,204,1,0,2,0,100.4
+20,19,"Daniel Jones, QB",NYG,W 23-17 at JAX,19,30,202,1,0,1,0,94.0
+21,20,"Taylor Heinicke, QB",WSH,W 23-21 vs. GB,20,33,201,2,1,1,0,85.5
+22,21,"Aaron Rodgers, QB",GB,L 23-21 at WSH,23,35,194,2,0,0,0,99.0
+23,22,"Bailey Zappe, QB",NE,L 33-14 vs. CHI,14,22,185,1,2,1,1,67.4
+24,23,"Justin Fields, QB",CHI,W 33-14 at NE,13,21,179,1,1,4,0,85.2
+25,24,"PJ Walker, QB",CAR,W 21-3 vs. TB,16,22,177,2,0,1,0,126.5
+26,25,"Ryan Tannehill, QB",TEN,W 19-10 vs. IND,13,20,132,0,0,2,1,83.8
+27,26,"Marcus Mariota, QB",ATL,L 35-17 at CIN,8,13,124,1,0,3,0,118.7
+28,27,"Zach Wilson, QB",NYJ,W 16-9 at DEN,16,26,121,0,0,3,0,72.8
+29,28,"Lamar Jackson, QB",BAL,W 23-20 vs. CLE,9,16,120,0,0,3,0,80.2
+30,29,"Brock Purdy, QB",SF,L 44-23 vs. KC,4,9,66,0,1,0,0,30.1
+31,30,"Taysom Hill, TE",NO,L 42-34 at ARI,2,2,48,0,0,0,0,118.8
