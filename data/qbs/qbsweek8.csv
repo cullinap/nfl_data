@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders,Sortable Passing Leaders
+1,RK,PLAYER,TEAM,RESULT,COMP,ATT,YDS,TD,INT,SACK,FUM,RAT
+2,1,"Tua Tagovailoa, QB",MIA,W 31-27 at DET,29,36,382,3,0,2,0,138.7
+3,2,"Zach Wilson, QB",NYJ,L 22-17 vs. NE,20,41,355,2,3,2,0,64.6
+4,3,"Kyler Murray, QB",ARI,L 34-26 at MIN,31,44,326,3,2,4,0,95.4
+5,4,"Tom Brady, QB",TB,L 27-22 vs. BAL,26,44,325,1,0,3,0,89.7
+6,5,"Jared Goff, QB",DET,L 31-27 vs. MIA,27,37,321,1,0,1,0,108.1
+7,6,"PJ Walker, QB",CAR,L 37-34 at ATL,19,36,317,1,1,1,0,80.4
+8,7,"Jalen Hurts, QB",PHI,W 35-13 vs. PIT,19,28,285,4,0,3,0,140.6
+9,8,"Taylor Heinicke, QB",WSH,W 17-16 at IND,23,31,279,1,1,2,0,98.7
+10,9,"Jacoby Brissett, QB",CLE,W 32-13 vs. CIN,17,22,278,1,0,2,1,133.7
+11,10,"Marcus Mariota, QB",ATL,W 37-34 vs. CAR,20,28,253,3,2,2,0,105.2
+12,11,"Russell Wilson, QB",DEN,W 21-17 at JAX,18,30,252,1,1,3,0,84.3
+13,12,"Dak Prescott, QB",DAL,W 49-29 vs. CHI,21,27,250,2,1,1,0,114.5
+14,13,"Lamar Jackson, QB",BAL,W 27-22 at TB,27,38,238,2,0,3,0,104.9
+15,14,"Jimmy Garoppolo, QB",SF,W 31-14 at LAR,21,25,235,2,0,3,0,132.5
+16,15,"Joe Burrow, QB",CIN,L 32-13 at CLE,25,35,232,2,1,5,1,96.4
+17,16,"Kirk Cousins, QB",MIN,W 34-26 vs. ARI,24,36,232,2,0,3,1,103.0
+18,17,"Andy Dalton, QB",NO,W 24-0 vs. LV,22,30,229,2,0,0,0,117.2
+19,18,"Josh Allen, QB",BUF,W 27-17 vs. GB,13,25,218,2,2,2,0,75.1
+20,19,"Geno Smith, QB",SEA,W 27-13 vs. NYG,23,34,212,2,0,3,0,104.0
+21,20,"Aaron Rodgers, QB",GB,L 27-17 at BUF,19,30,203,2,1,2,0,91.4
+22,21,"Sam Ehlinger, QB",IND,L 17-16 vs. WSH,17,23,201,0,0,2,1,100.1
+23,22,"Mac Jones, QB",NE,W 22-17 at NYJ,24,35,194,1,1,6,0,79.9
+24,23,"Kenny Pickett, QB",PIT,L 35-13 at PHI,25,38,191,0,1,6,1,66.9
+25,24,"Matthew Stafford, QB",LAR,L 31-14 vs. SF,22,33,187,1,0,2,0,91.4
+26,25,"Daniel Jones, QB",NYG,L 27-13 at SEA,17,31,176,0,0,5,0,71.4
+27,26,"Davis Mills, QB",HOU,L 17-10 vs. TEN,17,29,152,1,1,3,0,69.9
+28,27,"Justin Fields, QB",CHI,L 49-29 at DAL,17,23,151,2,0,4,0,120.0
+29,28,"Trevor Lawrence, QB",JAX,L 21-17 vs. DEN,18,31,133,1,2,2,0,52.2
+30,29,"Derek Carr, QB",LV,L 24-0 at NO,15,26,101,0,1,3,0,50.3
+31,30,"Jarrett Stidham, QB",LV,L 24-0 at NO,8,13,72,0,0,1,0,76.4
